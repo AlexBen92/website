@@ -1,9 +1,7 @@
 import { RiComputerLine } from "react-icons/ri";
 import { FaServer } from "react-icons/fa";
 import { AiOutlineApi } from "react-icons/ai";
-
 import { IProjet, Service, Skill } from "./types";
-
 import { BsCircleFill } from "react-icons/bs";
 
 export const services: Service[] = [
