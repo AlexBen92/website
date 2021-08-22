@@ -52,7 +52,7 @@ const ProjetCard: FunctionComponent<{
                 href={deployed_url}
                 className="flex items-center px-4 py-2 space-x-3 text-lg bg-gray-200 dark:bg-dark-200"
               >
-                <AiFillProject /> <span>Projets</span>
+                <AiFillProject /> <span>Entrez</span>
               </a>
             </div>
           </div>

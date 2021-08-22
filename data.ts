@@ -101,6 +101,12 @@ export const tools: Skill[] = [
 ];
 
 export const projets: IProjet[] = [
+
+  { 
+    name: "Site vitrine Coach",
+    image_path: "/images/summer.jpg",
+    deployed_url: "https://stoic-ramanujan-4d8b1c.netlify.app/",
+  },
   { 
     name: "Calculateur FFMI",
     image_path: "/images/portfolio-img1.jpg",
@@ -113,9 +119,9 @@ export const projets: IProjet[] = [
   },
 
   {
-    name: "Creation PhotoShop",
-    image_path: "/images/portfolio-img4.jpg",
-    deployed_url: "/assets/Création Photoshop/index8.html",
+    name: "Site e-commerce",
+    image_path: "/images/ecommerce-2140604_960_720.webp",
+    deployed_url: "https://eloquent-panini-e1743e.netlify.app/",
   },
 
   {
